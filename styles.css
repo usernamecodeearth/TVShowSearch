@@ -1,0 +1,29 @@
+body {
+  margin: 30px;
+  font-family: sans-serif;
+}
+
+#searchSection{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+p{
+  margin-top: -10px;
+}
+
+#titlesWithName{
+  margin-top: 10px;
+}
+
+img {
+  display: flexbox;
+  justify-content: center;
+  margin: 3px;
+}
+
+.noDisplay {
+  display: none;
+}
